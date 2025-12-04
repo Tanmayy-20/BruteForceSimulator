@@ -74,7 +74,7 @@ Educational Objectives
 ✔ See how defenses like lockout help prevent attacks
 
 -------------------------------------------------------------
-Future Enhancements (Optional Ideas)
+Future Enhancements 
 -------------------------------------------------------------
 
 - Add GUI using Tkinter
@@ -83,8 +83,4 @@ Future Enhancements (Optional Ideas)
 - Compare weak vs strong password cracking time graphs
 - Add hashed password cracking simulation (MD5, SHA1, etc.)
 
--------------------------------------------------------------
-Author
--------------------------------------------------------------
-Developed by: <Your Name>
 GitHub Profile: <Your GitHub URL>
