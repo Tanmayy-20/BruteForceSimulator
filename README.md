@@ -82,5 +82,3 @@ Future Enhancements
 - Export results to text or PDF report
 - Compare weak vs strong password cracking time graphs
 - Add hashed password cracking simulation (MD5, SHA1, etc.)
-
-GitHub Profile: <Your GitHub URL>
